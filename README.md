@@ -1,2 +1,2 @@
 # mdUploadPicTool
-markdown图片自动上传并插入工具
+利用七牛免费云存储，将markdown中的图片自动上传添加相应的链接，目前仅支持入参为markdown格式文件
