@@ -7,8 +7,8 @@ import qiniu.config
 
 url_header = 'ozefmlquu.bkt.clouddn.com'
 
-access_key = 'cRXononyP_ZDVinaki_QwT3APKifzO_2YafKj9HH'
-secret_key = '6IMkQGY8xaF0ZeHWSqba2_jweSaNsJ0xqbYhfmfh'
+access_key = ''
+secret_key = ''
 
 def uploadPic(file, workdir):
 	q = Auth(access_key, secret_key)
